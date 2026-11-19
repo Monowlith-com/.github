@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/Monowlith-com/.github/blob/main/profile/README_de.md" title="Deutsch lesen"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monowlith-com/.github/main/profile/media/sys-en-dark.png"><img src="https://raw.githubusercontent.com/Monowlith-com/.github/main/profile/media/sys-en-light.png" width="32" height="32" alt="Deutsch lesen"></picture></a>
+  <a href="https://github.com/Monowlith-com/.github/blob/main/profile/README_de.md" title="Deutsch lesen"><img src="https://raw.githubusercontent.com/Monowlith-com/.github/main/profile/media/sys-en-light.png" width="32" height="32" alt="Deutsch lesen"></a>
   &nbsp;<a href="https://github.com/Monowlith-com/.github/blob/main/profile/README_de.md">Deutsch</a>
 </p>
 
@@ -32,7 +32,7 @@ Structured learning materials with modules and lessons in mathematics and comput
 
 Monowlith brings together independent projects, structured knowledge and educational resources. Learning Courses is an initiative for independent, self-paced learning without a paywall. Course source documents are available in the corresponding repositories.
 
-[Monowlith GitHub website](https://monowlith-com.github.io/?syslang=en&doclang=de&theme=light) · [monowlith.com](https://monowlith.com) · [All repositories](https://github.com/Monowlith-com?tab=repositories)
+[Monowlith GitHub website](https://monowlith-com.github.io/?syslang=en&doclang=de&theme=light) · [monowlith.com](https://monowlith.com) · [All repositories](https://github.com/orgs/Monowlith-com/repositories)
 
 ## License
 
