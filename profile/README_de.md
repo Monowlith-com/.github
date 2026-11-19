@@ -1,6 +1,8 @@
 <p align="right">
-  <a href="https://github.com/Monowlith-com" title="Read in English"><img src="https://raw.githubusercontent.com/Monowlith-com/.github/main/profile/media/sys-de-light.png" width="32" height="32" alt="Read in English"></a>
-  &nbsp;<a href="https://github.com/Monowlith-com">English</a>
+  <a href="https://github.com/Monowlith-com/.github/blob/main/profile/README_de.md"><img src="https://github.com/Monowlith-com/.github/raw/refs/heads/main/profile/media/sys-de-light.png#gh-light-mode-only" alt="Deutsch" width="32" height="32"></a>
+  <a href="https://github.com/Monowlith-com/.github/blob/main/profile/README_de.md"><img src="https://github.com/Monowlith-com/.github/raw/refs/heads/main/profile/media/sys-de-dark.png#gh-dark-mode-only" alt="Deutsch" width="32" height="32"></a>
+  <a href="https://github.com/Monowlith-com"><img src="https://github.com/Monowlith-com/.github/raw/refs/heads/main/profile/media/sys-en-light.png#gh-light-mode-only" alt="English" width="32" height="32"></a>
+  <a href="https://github.com/Monowlith-com"><img src="https://github.com/Monowlith-com/.github/raw/refs/heads/main/profile/media/sys-en-dark.png#gh-dark-mode-only" alt="English" width="32" height="32"></a>
 </p>
 
 <h1><a href="https://monowlith-com.github.io/?syslang=de&amp;doclang=de&amp;theme=light"><img src="https://raw.githubusercontent.com/Monowlith-com/.github/main/profile/media/monowlith-owl.webp" alt="" width="42" height="42" valign="middle"></a> Monowlith</h1>
