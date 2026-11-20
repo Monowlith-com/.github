@@ -13,7 +13,7 @@ Offene Bildungsangebote und unabhängige Projekte auf GitHub.
 
 ## Lernkurse · Learning Courses
 
-Strukturierte Lernangebote mit Modulen und Lektionen zu Mathematik und Informatik. Der eigene Webreader bietet Suche, Notizen, Lesezeichen und einen gespeicherten Lesestand. Alle Kurse sind frei zugänglich.
+Strukturierte Lernangebote mit Modulen und Lektionen zu Mathematik, Informatik sowie Elektrotechnik und Informationstechnik. Der eigene Webreader bietet Suche, Notizen, Lesezeichen und einen gespeicherten Lesestand. Alle Kurse sind frei zugänglich.
 
 <p align="center"><a href="https://monowlith-com.github.io/learning-courses/index.html?syslang=de&amp;doclang=de&amp;theme=light"><img src="https://raw.githubusercontent.com/Monowlith-com/.github/main/profile/media/learning-courses-academy.webp" width="200" alt="Learning Courses"></a></p>
 
@@ -21,12 +21,13 @@ Strukturierte Lernangebote mit Modulen und Lektionen zu Mathematik und Informati
 
 ### Universität
 
-- **[Universität · Informatik](https://monowlith-com.github.io/learning-courses/index.html?course=university_computer-science&syslang=de&doclang=de&theme=light)** (Deutsch) · [Repository](https://github.com/Monowlith-com/learning-courses-university-computer-science-de)
-- **[Universität · Mathematik](https://monowlith-com.github.io/learning-courses/index.html?course=university_mathematics&syslang=de&doclang=de&theme=light)** (Deutsch) · [Repository](https://github.com/Monowlith-com/learning-courses-university-mathematics-de)
+- **[Universität · Informatik](https://monowlith-com.github.io/learning-courses/index.html?course=university_computer-science&syslang=de&doclang=de&theme=light)** (Deutsch, Englisch) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-computer-science-de) · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-computer-science-en)
+- **[Universität · Elektrotechnik und Informationstechnik](https://monowlith-com.github.io/learning-courses/index.html?course=university_electrical-engineering&syslang=de&doclang=de&theme=light)** (Deutsch, Englisch) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-electrical-engineering-de) · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-electrical-engineering-en)
+- **[Universität · Mathematik](https://monowlith-com.github.io/learning-courses/index.html?course=university_mathematics&syslang=de&doclang=de&theme=light)** (Deutsch, Englisch) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-mathematics-de) · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-mathematics-en)
 
 ### Schule
 
-- **[Schule · Mathematik](https://monowlith-com.github.io/learning-courses/index.html?course=school_mathematics&syslang=de&doclang=de&theme=light)** (Deutsch) · [Repository](https://github.com/Monowlith-com/learning-courses-school-mathematics-de)
+- **[Schule · Mathematik](https://monowlith-com.github.io/learning-courses/index.html?course=school_mathematics&syslang=de&doclang=de&theme=light)** (Deutsch, Englisch) · [DE Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-de) · [EN Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-en)
 
 ## Über Monowlith
 
