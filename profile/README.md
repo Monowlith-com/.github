@@ -21,13 +21,13 @@ Structured learning materials with modules and lessons in mathematics, computer 
 
 ### University
 
-- **[University · Computer Science](https://monowlith-com.github.io/learning-courses/index.html?course=university_computer-science&syslang=en&doclang=en&theme=light)** (English, German) · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-computer-science-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-computer-science-de)
-- **[University · Electrical Engineering and Information Technology](https://monowlith-com.github.io/learning-courses/index.html?course=university_electrical-engineering&syslang=en&doclang=en&theme=light)** (English, German) · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-electrical-engineering-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-electrical-engineering-de)
-- **[University · Mathematics](https://monowlith-com.github.io/learning-courses/index.html?course=university_mathematics&syslang=en&doclang=en&theme=light)** (English, German) · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-mathematics-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-mathematics-de)
+- **[University · Computer Science](https://monowlith-com.github.io/learning-courses/index.html?course=university_computer-science&syslang=en&doclang=en&theme=light)** (English, German) · 11 modules · 50 lessons · 61 documents · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-computer-science-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-computer-science-de)
+- **[University · Electrical Engineering and Information Technology](https://monowlith-com.github.io/learning-courses/index.html?course=university_electrical-engineering&syslang=en&doclang=en&theme=light)** (English, German) · 31 modules · 171 lessons · 173 documents · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-electrical-engineering-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-electrical-engineering-de)
+- **[University · Mathematics](https://monowlith-com.github.io/learning-courses/index.html?course=university_mathematics&syslang=en&doclang=en&theme=light)** (English, German) · 4 modules · 48 lessons · 57 documents · [EN Repo](https://github.com/Monowlith-com/learning-courses-university-mathematics-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-university-mathematics-de)
 
 ### School
 
-- **[School · Mathematics](https://monowlith-com.github.io/learning-courses/index.html?course=school_mathematics&syslang=en&doclang=en&theme=light)** (English, German) · [EN Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-de)
+- **[School · Mathematics](https://monowlith-com.github.io/learning-courses/index.html?course=school_mathematics&syslang=en&doclang=en&theme=light)** (English, German) · 2 modules · 40 lessons · 42 documents · [EN Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-de)
 
 ## About Monowlith
 
