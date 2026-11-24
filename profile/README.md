@@ -32,6 +32,7 @@ Structured learning materials with modules and lessons in mathematics, computer 
 
 - **[School · Computer Science](https://monowlith-com.github.io/learning-courses/index.html?course=school_computer-science&syslang=en&doclang=en&theme=light)** (English, German) · 10 modules · 45 lessons · 48 documents · [EN Repo](https://github.com/Monowlith-com/learning-courses-school-computer-science-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-school-computer-science-de)
 - **[School · Mathematics](https://monowlith-com.github.io/learning-courses/index.html?course=school_mathematics&syslang=en&doclang=en&theme=light)** (English, German) · 2 modules · 40 lessons · 42 documents · [EN Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-school-mathematics-de)
+- **[School · Physics](https://monowlith-com.github.io/learning-courses/index.html?course=school_physics&syslang=en&doclang=en&theme=light)** (English, German) · 24 modules · 149 lessons · 152 documents · [EN Repo](https://github.com/Monowlith-com/learning-courses-school-physics-en) · [DE Repo](https://github.com/Monowlith-com/learning-courses-school-physics-de)
 
 ## About Monowlith
 
